@@ -1,3 +1,7 @@
+<h1 align="center"> Shaloy's Data Science Portfolio</h1>
+
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## [Project 1: Bike Sharing Demand Prediction](https://github.com/shaloy-lewis/bike_sharing_demand_prediction)
 * Implemented a regression model to predict the hourly demand for rental bikes in the city of Seoul based on the weather conditions and other factors.
 * The data was available for a duration of one year, and there were a total of 8760 records. 
@@ -20,3 +24,5 @@
 * Optimal number of clusters for the k means (19) and hierarchical (14) clustering algorithm were determined after visualizing the elbow curve and dendrogram respectively.
 * Was successful in building clusters with Silhouette score of up to 0.007 for k means clustering algorithm.
 * Leveraging the constrained k means clustering method, a basic content-based recommender system was developed, and this recommender system was capable of recommending 10–20 shows to viewers depending on the type of show they had just watched.
+
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
