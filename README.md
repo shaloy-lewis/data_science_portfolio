@@ -1,5 +1,3 @@
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## [Project 1: Bike Sharing Demand Prediction](https://github.com/shaloy-lewis/bike_sharing_demand_prediction)
 * Implemented a regression model to predict the hourly demand for rental bikes in the city of Seoul based on the weather conditions and other factors.
 * The data was available for a duration of one year, and there were a total of 8760 records. 
